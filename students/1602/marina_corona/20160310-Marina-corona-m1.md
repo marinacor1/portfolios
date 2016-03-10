@@ -270,3 +270,4 @@ Repo: https://github.com/weilandia/goldberg_posse_challenges
 * Could time pressures have been alleviated by organizing the work differently? Communication. The greatest chunk of work was done separately and that hurt us.
 
 * Challenges: Spec harness, the spec harness was not very clear.
+ 
